@@ -5,14 +5,14 @@ https://mvp.microsoft.com/en-us/PublicProfile/5000508?fullName=John%20Liu
 
 I am the founder of Flow Studio Solutions.  Providing two loved tools: [Power Studio](https://PowerStudio.app) and [Power Clarity](https://PowerClarity.app).  I specialize and [blogs](http://johnliu.net) frequently on client-side scripting, custom development, workflows and Forms. Originally from a long technical background with .NET, I made the jump to focus and work with numerous SharePoint and Office projects for the last decade.
 
-I love to find ways to bring the latest web technologies to the Office world, applying them to extend your business’ capabilities.  In recent years, I am very much in love with the Serverless technology stack – Azure Functions, Microsoft Flow (Azure Logic Apps), API management and Function proxies.
+I love to find ways to bring the latest web technologies to the Office 365 world, applying them to extend your business’ capabilities.  In recent years, I am very much in love with the Serverless technology stack – Azure Functions, Microsoft Flow (Azure Logic Apps), API management and Function proxies.
 
 I am a frequent speaker at SharePoint Conference, SharePoint Saturday, Microsoft Ignite and Office 365 events around Australia, and helps organizing the Sydney SharePoint User Group and the Sydney Power Apps and Flow User Group (e.g. consuming all the pizza).
 
 - 💪 I’m currently working on [Power Studio](https://PowerStudio.app) and [Power Clarity](https://PowerClarity.app)
 - 🌱 I’m currently learning how build a startup
 - 👯 I’m looking to collaborate on empowering professional and citizen developers
-- 📺 https://www.youtube.com/channel/UCnwOR346LaZpk1V90_1mu6A 
+- 📺 https://www.youtube.com/c/JohnLiuNet 
 - ℹ https://www.linkedin.com/in/johnnliu 
 - 💬 Ask me about Power Platform, SharePoint customizations, Regex, Serverless, technical governance of Power Platform.
 - 🤔 I’m looking for help with...  if I can help your business, please contact me.
