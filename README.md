@@ -3,7 +3,7 @@
 I am a Microsoft Most Valuable Professional in Office Server and Services (SharePoint) and Business Applications (Automate)
 https://mvp.microsoft.com/en-us/PublicProfile/5000508?fullName=John%20Liu
 
-I am the founder of Flow Studio Solutions.  Providing two loved tools: [Power Studio](https://PowerStudio.app) and [Power Clarity](https://PowerClarity.app).  I specialize and [blogs](http://johnliu.net) frequently on client-side scripting, custom development, workflows and Forms. Originally from a long technical background with .NET, I made the jump to focus and work with numerous SharePoint and Office projects for the last decade.
+I am the founder of Flow Studio Solutions.  Providing two loved tools: [Flow Studio](https://FlowStudio.app) and [Power Clarity](https://PowerClarity.app).  I specialize and [blogs](http://johnliu.net) frequently on client-side scripting, custom development, workflows and Forms. Originally from a long technical background with .NET, I made the jump to focus and work with numerous SharePoint and Office projects for the last decade.
 
 I love to find ways to bring the latest web technologies to the Office 365 world, applying them to extend your business’ capabilities.  In recent years, I am very much in love with the Serverless technology stack – Azure Functions, Microsoft Flow (Azure Logic Apps), API management and Function proxies.
 
