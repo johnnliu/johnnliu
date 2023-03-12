@@ -12,8 +12,6 @@ I am a frequent speaker at SharePoint Conference, SharePoint Saturday, Microsoft
 - 💪 I’m currently working on [Flow Studio](https://FlowStudio.app) and [Power Clarity](https://PowerClarity.app)
 - 🌱 I’m currently learning how build a startup
 - 👯 I’m looking to collaborate on empowering professional and citizen developers
-- 📺 https://www.youtube.com/c/JohnLiuNet 
-- ℹ https://www.linkedin.com/in/johnnliu 
 - 💬 Ask me about Power Platform, SharePoint customizations, Regex, Serverless, technical governance of Power Platform.
 - 🤔 I’m looking for help with...  if I can help your business, please contact me.
 - 📫 How to reach me: https://twitter.com/johnnliu
