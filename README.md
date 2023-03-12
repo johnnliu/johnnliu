@@ -9,7 +9,7 @@ I love to find ways to bring the latest web technologies to the Office 365 world
 
 I am a frequent speaker at SharePoint Conference, SharePoint Saturday, Microsoft Ignite and Office 365 events around Australia, and helps organizing the Sydney SharePoint User Group and the Sydney Power Apps and Flow User Group (e.g. consuming all the pizza).
 
-- 💪 I’m currently working on [Power Studio](https://PowerStudio.app) and [Power Clarity](https://PowerClarity.app)
+- 💪 I’m currently working on [Flow Studio](https://FlowStudio.app) and [Power Clarity](https://PowerClarity.app)
 - 🌱 I’m currently learning how build a startup
 - 👯 I’m looking to collaborate on empowering professional and citizen developers
 - 📺 https://www.youtube.com/c/JohnLiuNet 
